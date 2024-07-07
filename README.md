@@ -40,7 +40,7 @@ https://openode.ru/topic/116-dwg-ui/
 Запусти команду на чистом сервере
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/DigneZzZ/dwg-ui/main/setup.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/JohnnyP0T/dwg-ui/main/setup.sh)
 ```
 
 ## Что установится:
